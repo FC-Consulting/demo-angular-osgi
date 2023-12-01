@@ -25,7 +25,7 @@ steps:
 
 - task: SonarQubePrepare@5
   inputs:
-    SonarQube: 'https://sonarqube.famille.cc'
+    SonarQube: 'Sonarqube famille'
     scannerMode: 'CLI'
     configMode: 'manual'
     cliProjectKey: 'ControleParental_ControleParental_AYwhQjIKZZxZN3HdW92H'
